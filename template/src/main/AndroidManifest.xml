@@ -17,6 +17,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
+        <!-- Die Activity für die MessageActivity Klasse: -->
+        <activity android:name=".MessageActivity"></activity>
+
     </application>
 
 </manifest>
