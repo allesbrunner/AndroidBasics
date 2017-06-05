@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/lecture3/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_add_black_24dp.xml",
+        "source": "/Users/alex/AndroidStudioProjects/AndroidBasics/lecture3/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_add_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/lecture3/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Users/alex/.android/build-cache/758f7cdacdb8bf9d58dd29b2d59f091e48533e4e/output/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/lecture3/build/intermediates/res/merged/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Users/alex/.android/build-cache/758f7cdacdb8bf9d58dd29b2d59f091e48533e4e/output/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]

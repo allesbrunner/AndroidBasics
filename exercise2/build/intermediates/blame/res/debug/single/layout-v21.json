@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise2/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/alex/.android/build-cache/f25e95d2be5cc2a7d1041e029325ade6dd549d8e/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise2/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/alex/.android/build-cache/f25e95d2be5cc2a7d1041e029325ade6dd549d8e/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise2/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/alex/.android/build-cache/f25e95d2be5cc2a7d1041e029325ade6dd549d8e/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise2/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/alex/.android/build-cache/f25e95d2be5cc2a7d1041e029325ade6dd549d8e/output/res/layout-v21/notification_action.xml"
+    }
+]

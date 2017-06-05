@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/intermediates/res/merged/debug/drawable-mdpi/ic_add_white.png",
+        "source": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/generated/res/pngs/debug/drawable-mdpi/ic_add_white.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/intermediates/res/merged/debug/drawable-mdpi/ic_person_black.png",
+        "source": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/generated/res/pngs/debug/drawable-mdpi/ic_person_black.png"
+    },
+    {
+        "merged": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/intermediates/res/merged/debug/drawable-mdpi/ic_cake_black.png",
+        "source": "/Users/alex/AndroidStudioProjects/AndroidBasics/exercise3/build/generated/res/pngs/debug/drawable-mdpi/ic_cake_black.png"
+    }
+]
